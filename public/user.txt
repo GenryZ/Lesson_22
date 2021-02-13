@@ -27,3 +27,5 @@ User: serwetik, Phone: 9379992, Date: 45 , Barber: Walter White
 User: serwetik, Phone: 9379992, Date: 45 , Barber: Jessie Pinkman
 User: serwetik, Phone: 9379992, Date: 45 , Barber: Gus Fring
 User: osvaldlee3, Phone: 9379992, Date: 45 , Barber: Walter White
+User: serwetik, Phone: +7 (978) 771-01-43, Date: 12 октября 2023 года в 09-00 утра, Barber: Gus Fring
+User: test1, Phone: test2, Date: test3, Barber: Jessie Pinkman
